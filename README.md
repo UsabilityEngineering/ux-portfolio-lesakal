@@ -7,4 +7,4 @@
 
 ## UX Journal
 
-[Journal 1](j01/)
+[Journal 1 - The Air Fryer](j01/)
