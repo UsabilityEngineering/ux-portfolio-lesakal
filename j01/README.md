@@ -6,14 +6,14 @@ I had never really considered getting an air fryer before. It is a rare occasion
 Plugging it in, I was greeted by a single button lighting up on the touch screen, which reads POWER/START.
 
 <p align='center'>
-  <img src="https://user-images.githubusercontent.com/83680711/155818137-a031eee2-da92-4856-aeec-afff75d910ea.png" alt="on_screen" width="600"/>
+  <img src="https://user-images.githubusercontent.com/83680711/155818137-a031eee2-da92-4856-aeec-afff75d910ea.png" alt="on_screen" width="800"/>
 </p>
 
 Given this is the only button and it implies that it turns it on, I of course tap it. This brought me to a screen with multiple options.
 Looking at the touch screen, one might already have some idea of how to use it.
 
 <p align='center'>
-  <img src="https://user-images.githubusercontent.com/83680711/155818803-11017d3d-3a9a-41ae-a69a-5dad59e41391.png" alt="fry_options" width="600"/> 
+  <img src="https://user-images.githubusercontent.com/83680711/155818803-11017d3d-3a9a-41ae-a69a-5dad59e41391.png" alt="fry_options" width="800"/> 
 </p>
 
 The up and down arrows by the "temp" label increase and decrease the cooking temperature respectively. The same is true for the "time" label and its arrow buttons. These __natural mappings__ allow the user to quickly understand the relationship between the cooking options and the arrows. Tapping the MENU button will cycle through the different cooking presets visible at the top row. This time tapping the POWER/START button will, unsurprisingly, allow the appliance to start cooking.
