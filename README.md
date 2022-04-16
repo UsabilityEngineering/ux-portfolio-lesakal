@@ -8,3 +8,4 @@
 ## UX Journal
 
 [Journal 1 - The Air Fryer](j01/)
+[Journal 2 - Clip Studio Paint](j02/)
