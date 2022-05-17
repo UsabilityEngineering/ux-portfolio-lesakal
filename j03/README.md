@@ -2,7 +2,7 @@
 #### By Luke Sakal, 5/17/2022
 Steam is known by just about everyone who has even glanced at modern PC gaming. Launched by Valve back when they still made big titles, Steam is the most dominant digital PC game store around, offering both indie games and AAA titles.
 
-When you use Steam, it becomes clear why it has retained the industry crown, even in the face of scandals and competitors like GOG or the Epic Games Store. I myself have been a user since they day they made Team Fortress 2 free-to-play. Simpler times, then, no?
+When you use Steam, it becomes clear why it has retained the industry crown, even in the face of scandals and competitors like GOG or the Epic Games Store. I myself have been a user since the day they made Team Fortress 2 free-to-play. Simpler times, then, no?
  
 ![image](https://user-images.githubusercontent.com/83680711/168796629-767d2316-1321-4814-a8d5-3db10ea7aa76.png)
  
@@ -14,7 +14,7 @@ However, Steam’s strength isn’t really in its visual design. Its strength co
 
 Steam’s **usefulness** comes from the fact that it fulfills peoples’ wants. It provides an easy way to view, purchase, and play games digitally. This is always people to quickly get their hands and games and play them from anywhere they want. Steam also functions as a social networking platform, so you can even communicate with friends or join a community around a certain game.
 
-Let’s say I want to check out a game to learn more about it. I might type in the name or choose it from a recommendation on the store page. From there I can get a nice, detailed page which includes trailers, images, descriptions, hardware recommendations, user reviews, DLC, and more. I’ve accomplished my goal to learn more about the game (**effectiveness**) and I did it all through one source.
+Let’s say I want to check out a game to learn more about it. I might type in the name or choose it from a recommendation on the store page. From there I can get a nice, detailed page that includes trailers, images, descriptions, hardware recommendations, user reviews, DLC, and more. I’ve accomplished my goal to learn more about the game (**effectiveness**) and I did it all through one source.
 
 ![image](https://user-images.githubusercontent.com/83680711/168796780-ae808f85-7174-4e3e-8fd6-8aa050b2a390.png)
  
