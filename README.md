@@ -4,9 +4,12 @@
 
 ## UX Team Project
 
+[BuddyUp](https://usabilityengineering.github.io/Buddy-Up/)
 
 ## UX Journal
 
 [Journal 1 - The Air Fryer](j01/)
 
 [Journal 2 - Clip Studio Paint](j02/)
+
+[Journal 3 - Steam](j03/)
